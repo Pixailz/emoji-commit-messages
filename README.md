@@ -50,7 +50,8 @@ Fork and modify to suit your needs. Don't forget to "star" and share the love.
 | `🚧` | :construction: | `:construction:` | `construction` | when the change is a work in progress (do not merge)** |
 
 # Custom
-
+| Text | Image | GFM shortcode* | Windows 10 picker name | When to use it |
+|:--:|:-----:|:--------- |:-------------- |:-------------- |
 | `📚` | :books: | `:books:` | `books` | when fixing standards  |
 
 \* GFM shortcodes are recognized by any software that uses **G**itHub **F**lavored **M**arkdown. You can type them directly in your commit message!
