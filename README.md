@@ -49,6 +49,10 @@ Fork and modify to suit your needs. Don't forget to "star" and share the love.
 | `⚡` | :zap: | `:zap:` | `high voltage` | when making a backwards-incompatible change** |
 | `🚧` | :construction: | `:construction:` | `construction` | when the change is a work in progress (do not merge)** |
 
+# Custom
+
+| `📚` | :books: | `:books:` | `books` | when fixing standards  |
+
 \* GFM shortcodes are recognized by any software that uses **G**itHub **F**lavored **M**arkdown. You can type them directly in your commit message!
 
 \** These emoji are often combined with another, primary emoji.
