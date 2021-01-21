@@ -53,6 +53,7 @@ Fork and modify to suit your needs. Don't forget to "star" and share the love.
 | Text | Image | GFM shortcode* | Windows 10 picker name | When to use it |
 |:--:|:-----:|:--------- |:-------------- |:-------------- |
 | `📚` | :books: | `:books:` | `books` | when fixing standards  |
+| `📚` | :books: | `:books:` | `books` | when rewriting mistake  |
 
 \* GFM shortcodes are recognized by any software that uses **G**itHub **F**lavored **M**arkdown. You can type them directly in your commit message!
 
@@ -93,16 +94,7 @@ The following is a brief list of open-source projects currently using these emoj
 
 - https://github.com/cooperka/emoji-commit-messages (of course)
 
-- https://github.com/cooperka/react-native-snackbar
-
-- https://github.com/cooperka/react-native-immutable-list-view
-
-- https://github.com/cooperka/eslint-config-cooperka
-
-- https://github.com/cooperka/bash-git-utils
-
-- https://github.com/cribspot/emoji-utils
-
+- https://github.com/Pixailz/PyMod
 ## Credits
 
 Developed along with my co-workers at [Cribspot](https://www.cribspot.com/). Inspired in part by style guides from [slashsBin](https://github.com/slashsBin/styleguide-git-commit-message#suggested-emojis) and [atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#git-commit-messages).
