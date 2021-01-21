@@ -53,7 +53,7 @@ Fork and modify to suit your needs. Don't forget to "star" and share the love.
 | Text | Image | GFM shortcode* | Windows 10 picker name | When to use it |
 |:--:|:-----:|:--------- |:-------------- |:-------------- |
 | `📚` | :books: | `:books:` | `books` | when fixing standards  |
-| `💢` | :anger: | `:anger:` | `anger sign` | when rewriting mistake  |
+| `❌` | :x: | `:x:` | `x` | when rewriting mistake  |
 | `🗂️` | :card_index_dividers: | `:card_index_dividers:` | `folder` | reorder folder structure  |
 | `❔` | :grey_question: | `:grey_question:` | `grey question` | unknown commit  |
 
