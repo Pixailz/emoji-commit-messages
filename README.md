@@ -53,7 +53,9 @@ Fork and modify to suit your needs. Don't forget to "star" and share the love.
 | Text | Image | GFM shortcode* | Windows 10 picker name | When to use it |
 |:--:|:-----:|:--------- |:-------------- |:-------------- |
 | `📚` | :books: | `:books:` | `books` | when fixing standards  |
-| `📚` | :books: | `:books:` | `books` | when rewriting mistake  |
+| `💢` | :anger: | `:anger:` | `anger sign` | when rewriting mistake  |
+| `🗂️` | :card_index_dividers: | `:card_index_dividers:` | `folder` | reorder folder structure  |
+| `❔` | :grey_question: | `:grey_question:` | `grey question` | unknown commit  |
 
 \* GFM shortcodes are recognized by any software that uses **G**itHub **F**lavored **M**arkdown. You can type them directly in your commit message!
 
