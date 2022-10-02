@@ -56,6 +56,7 @@ Fork and modify to suit your needs. Don't forget to "star" and share the love.
 | `❌` | :x: | `:x:` | `x` | when rewriting mistake  |
 | `🗂️` | :card_index_dividers: | `:card_index_dividers:` | `folder` | reorder folder structure  |
 | `❔` | :grey_question: | `:grey_question:` | `grey question` | unknown commit  |
+| `🔄` | :arrows_counterclockwise: | `:arrows_counterclockwise:` | ... | when merge branch |
 
 \* GFM shortcodes are recognized by any software that uses **G**itHub **F**lavored **M**arkdown. You can type them directly in your commit message!
 
