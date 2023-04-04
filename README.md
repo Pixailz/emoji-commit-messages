@@ -29,7 +29,7 @@ Fork and modify to suit your needs. Don't forget to "star" and share the love.
 | `🐎` | :racehorse: | `:racehorse:` | `horse` | when improving performance |
 | `🔒` | :lock: | `:lock:` | `locked` | when improving security |
 | `🔧` | :wrench: | `:wrench:` | `wrench` | when updating configs |
-| `♿` | :wheelchair: | `:wheelchair:` | `wheelchair symbol` |  when improving accessibility |
+| `♿`  | :wheelchair: | `:wheelchair:` | `wheelchair symbol` |  when improving accessibility |
 | `🚀` | :rocket: | `:rocket:` | `rocket` | when improving dev tools |
 | `📝` | :pencil: | `:pencil:` | `pencil` | when writing docs (e.g. README, code comments) |
 | `💎` | :gem: | `:gem:` | `gem stone` | when cutting a new release / version bump |
@@ -43,10 +43,10 @@ Fork and modify to suit your needs. Don't forget to "star" and share the love.
 | `📡` | :satellite: | `:satellite:` | `satellite antenna` | when adding instrumentation or metrics |
 | `🔊` | :loud_sound: | `:loud_sound:` | `speaker high volume` | when adding logging |
 | `🔇` | :mute: | `:mute:` | `muted speaker` | when removing logging |
-| `⬆` | :arrow_up: | `:arrow_up:` | `up arrow` | when upgrading dependencies |
-| `⬇` | :arrow_down: | `:arrow_down:` | `down arrow` | when downgrading dependencies |
+| `⬆`  | :arrow_up: | `:arrow_up:` | `up arrow` | when upgrading dependencies |
+| `⬇`  | :arrow_down: | `:arrow_down:` | `down arrow` | when downgrading dependencies |
 | `🎌` | :crossed_flags: | `:crossed_flags:` | `crossed flags` | when adding an A/B test or feature flag** |
-| `⚡` | :zap: | `:zap:` | `high voltage` | when making a backwards-incompatible change** |
+| `⚡`  | :zap: | `:zap:` | `high voltage` | when making a backwards-incompatible change** |
 | `🚧` | :construction: | `:construction:` | `construction` | when the change is a work in progress (do not merge)** |
 
 ## Custom
@@ -57,6 +57,7 @@ Fork and modify to suit your needs. Don't forget to "star" and share the love.
 | `🗂️` | :card_index_dividers: | `:card_index_dividers:` | `folder` | reorder folder structure  |
 | `❔` | :grey_question: | `:grey_question:` | `grey question` | unknown commit  |
 | `🔄` | :arrows_counterclockwise: | `:arrows_counterclockwise:` | ... | when merge branch |
+| ⚖️ | :balance_scale: | `:balance_scale:` | ... | adding license, referencing to law thing |
 
 \* GFM shortcodes are recognized by any software that uses **G**itHub **F**lavored **M**arkdown. You can type them directly in your commit message!
 
